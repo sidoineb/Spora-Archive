@@ -7,7 +7,9 @@
 La constitution d'une mycotheque est une étape importante pour tout myciculteur avancé. Parmi les méthodes de conservation des spores, les empreintes demeurent la meilleure technique, offrant une pérénité, une adaptabilité et une mobilité singuliéres.  
 Le projet Spora-Archive offre une proposition compléte, clef en main, de standardisation d'une mycothéque d'empreintes de spores sécurisée, transportable (par la taillle de boite de deck MagicTheGathering) et resiliente.  
 Cette initiative ici livrée en open-source permettra à tous de pouvoir s'en saisir, la déployer ou l'optimiser.  
+Car le projet Spora-Archive permet une mise en place simple et peu onéreuse (quelques impressions et quelques éléments basiques du jeu de carte MagicTheGathering).
 
+Enjoy ;)
 
 ## 🗂️ Overview of the structure
 
@@ -20,7 +22,14 @@ Cette initiative ici livrée en open-source permettra à tous de pouvoir s'en sa
 
 ## 🍄⚡ Tutoriel express
 
+Quelques étapes résumées du tutoriel complet consultable dans le répertoire [Tutorials](Tutorials/).
+
 ### Etape 0 : Le matériel
+- Des rectangles de papier aluminium de 5.5cmx8cm max
+- de l'alcool à 70° ou 90° (alcool isopropylique ou éthanol), ainsi que des coupelles en verre ou un verre d'eau.
+- Les IDcards Spora-Archive de votre choix imprimées.
+- Proteges de cartes MagicTheGathering (des [UltraPro](https://www.philibertnet.com/fr/ultra-pro/161521-100-deck-protector-noir-regular-size-074427826918.html) suffisent, pour plus de robustesse des DragonShield reste envisageables)
+- Une boite de deck MagicTheGathering de votre choix (par exemple une [Deckbox assez jolie, solide et resistante dans le temps](https://www.philibertnet.com/fr/ultimate-guard/183090-magic-the-gathering-reality-fracture-sidewinder-100-2100001416539.html), ou une [plus modeste mais tout aussi solide](https://www.philibertnet.com/fr/gamegenic/180795-magic-the-gathering-the-hobbit-soft-dynacrate-100-xl-4251715425664.html))
 
 
 
