@@ -28,5 +28,5 @@ Cette initiative ici livrée en open-source permetta à tous de pouvoir s'en sai
 
 Ce projet est sous licence MIT. Vous pouvez consulter le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## Remerciements
+## 🔥 Remerciements
 Le porteur du projet remercie chaleureusement [Denis SALEM](https://denissalem.ovh/) ainsi que [Geoffrey DORNE](https://www.geoffreydorne.com/) pour leur soutien et leurs conseils précieux dans le développement de Spora-Archive.
