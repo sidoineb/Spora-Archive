@@ -26,9 +26,9 @@ Quelques étapes résumées du tutoriel complet consultable dans le répertoire 
 
 ### Etape 0 : Le matériel
 - Des rectangles de papier aluminium de 5.5cmx8cm max
-- de l'alcool à 70° ou 90° (alcool isopropylique ou éthanol), ainsi que des coupelles en verre ou un verre d'eau.
+- Alcool à 70° ou 90° (alcool isopropylique ou éthanol), ainsi que des coupelles en verre ou un verre d'eau.
 - Les IDcards Spora-Archive de votre choix imprimées.
-- Proteges de cartes MagicTheGathering (des [UltraPro](https://www.philibertnet.com/fr/ultra-pro/161521-100-deck-protector-noir-regular-size-074427826918.html) suffisent, pour plus de robustesse des DragonShield reste envisageables)
+- Proteges-cartes MagicTheGathering (des [UltraPro](https://www.philibertnet.com/fr/ultra-pro/161521-100-deck-protector-noir-regular-size-074427826918.html) suffisent, pour plus de robustesse des DragonShield reste envisageables)
 - Une boite de deck MagicTheGathering de votre choix (par exemple une [Deckbox assez jolie, solide et resistante dans le temps](https://www.philibertnet.com/fr/ultimate-guard/183090-magic-the-gathering-reality-fracture-sidewinder-100-2100001416539.html), ou une [plus modeste mais tout aussi solide](https://www.philibertnet.com/fr/gamegenic/180795-magic-the-gathering-the-hobbit-soft-dynacrate-100-xl-4251715425664.html))
 
 
