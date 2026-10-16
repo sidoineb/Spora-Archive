@@ -6,7 +6,7 @@
 
 La constitution d'une mycotheque est une étape importante pour tout myciculteur avancé. Parmi les méthodes de conservation des spores, les empreintes demeurent la meilleure technique, offrant une pérénité, une adaptabilité et une mobilité singuliéres.  
 Le projet Spora-Archive offre une proposition compléte, clef en main, de standardisation d'une mycothéque d'empreintes de spores sécurisée, transportable (par la taillle de boite de deck MagicTheGathering) et resiliente.  
-Cette initiative ici livrée en open-source permetta à tous de pouvoir s'en saisir, la déployer ou l'optimiser.  
+Cette initiative ici livrée en open-source permettra à tous de pouvoir s'en saisir, la déployer ou l'optimiser.  
 
 
 ## 🗂️ Overview of the structure
