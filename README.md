@@ -25,13 +25,25 @@ Enjoy ;)
 Quelques étapes résumées du tutoriel complet consultable dans le répertoire [Tutorials](Tutorials/).
 
 ### Etape 0 : Le matériel
-- Des rectangles de papier aluminium de 5.5cmx8cm max
+- Des rectangles de papier aluminium de 11cmx8cm max
 - Alcool à 70° ou 90° (alcool isopropylique ou éthanol), ainsi que des coupelles en verre ou un verre d'eau.
 - Les IDcards Spora-Archive de votre choix imprimées.
+- Des gants en nitrile ou latex (pour la manipulation des empreintes de spores)
 - Proteges-cartes MagicTheGathering (des [UltraPro](https://www.philibertnet.com/fr/ultra-pro/161521-100-deck-protector-noir-regular-size-074427826918.html) suffisent, pour plus de robustesse des DragonShield reste envisageables)
 - Une boite de deck MagicTheGathering de votre choix (par exemple une [Deckbox assez jolie, solide et resistante dans le temps](https://www.philibertnet.com/fr/ultimate-guard/183090-magic-the-gathering-reality-fracture-sidewinder-100-2100001416539.html), ou une [plus modeste mais tout aussi solide](https://www.philibertnet.com/fr/gamegenic/180795-magic-the-gathering-the-hobbit-soft-dynacrate-100-xl-4251715425664.html))
 
+### Etape 1 : La création de l'empreinte
 
+0) Manipulations à effectuées de préférence avec des gants ou mains lavées et desinfectées afin d'eviter les contaminations.
+1) Poser la feuille de papier aluminium sur une surface plane et propre, et passer un coup d'alcool dessus pour la désinfecter.
+2) Déposer le champignon sur la feuille d'aluminium, et le recouvrir d'un verre ou d'une coupelle en verre.
+3) Laisser le champignon reposer pendant 12 à 24h, afin que les spores se déposent sur la feuille d'aluminium.
+
+### Etape 2 : Conditionnement de l'empreinte
+
+1) Retirer le verre ou la coupelle, et récupérer la feuille d'aluminium avec l'empreinte de spores.
+2) Plier la feuille d'aluminium en deux pour protéger l'empreinte, et la placer dans l'IDcards Spora-Archive correspondante.
+3) Glisser l'IDcards dans le protège-carte MagicTheGathering, et la ranger dans la boite de deck MagicTheGathering.
 
 ## 📝 License
 
