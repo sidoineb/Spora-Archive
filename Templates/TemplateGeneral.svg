@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="1.2646927"
      inkscape:cx="384.67843"
-     inkscape:cy="299.67755"
+     inkscape:cy="299.67754"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -36,6 +36,12 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <rect
+       x="434.57321"
+       y="401.00218"
+       width="124.71224"
+       height="54.43516"
+       id="rect1004" />
     <rect
        x="227.16734"
        y="288.33586"
@@ -112,7 +118,7 @@
        x="50.097652"
        y="49.818283" />
     <rect
-       style="fill:#ffffff;stroke-width:0.264583;fill-opacity:1"
+       style="fill:#ffffff;stroke-width:0.209;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect2607"
        width="110.19725"
        height="81.469131"
@@ -172,10 +178,10 @@
        style="white-space:pre;shape-inside:url(#rect6798);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.75748;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="227.16797"
          y="298.95312"
-         id="tspan7219">Illustration du </tspan><tspan
+         id="tspan1098">Illustration du </tspan><tspan
          x="227.16797"
          y="313.95312"
-         id="tspan7221">champignon</tspan></text>
+         id="tspan1100">champignon</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
@@ -218,18 +224,32 @@
          x="52.63451"
          y="128.09634">Empreinte scellée par ...  // Le  XX/XX/XkXX</tspan></text>
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.209;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        id="rect7124"
        width="56.82193"
        height="4.8256679"
        x="102.40876"
        y="45.119377" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.409479;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.209;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        id="rect7126"
        width="57.069496"
        height="4.6115065"
        x="102.34749"
        y="131.67497" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.5172985,15.727345)"
+       id="text1002"
+       style="font-size:8px;text-align:center;white-space:pre;shape-inside:url(#rect1004);fill:#ffffff;stroke:#000000;stroke-width:0.789921;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="27.466797"
+       y="0"><tspan
+         x="482.04004"
+         y="408.08008"
+         id="tspan1102">ID Card
+</tspan><tspan
+         x="468.98535"
+         y="418.08008"
+         id="tspan1104">Spora-Archive</tspan></text>
   </g>
 </svg>
