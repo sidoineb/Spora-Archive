@@ -49,7 +49,7 @@ Quelques étapes résumées du tutoriel complet consultable dans le répertoire 
 
 Dans le coin gauche de chaque IDCards il est présent (à coté du nom de l'espece) une illustration d'un champignon colorée, qui, selon sa couleur, permet de savoir rapidement à quel type d'empreinte on a affaire.  
 La nomenclature de ces types par couleurs est établie comme suit :
-- ⬛ Noir : Mortel
+- ⬛ Noir : Mortel/Toxique
 - 🟥 Rouge : Psychedelique
 - 🟩 Vert : Comestible
 - 🟦 Bleu : Médicinal
