@@ -45,6 +45,15 @@ Quelques étapes résumées du tutoriel complet consultable dans le répertoire 
 2) Plier la feuille d'aluminium en deux pour protéger l'empreinte, et la placer dans l'IDcards Spora-Archive correspondante.
 3) Glisser l'IDcards dans le protège-carte MagicTheGathering, et la ranger dans la boite de deck MagicTheGathering.
 
+## 🚦 Types : Le code couleur
+
+Dans le coin gauche de chaque IDCards il est présent (à coté du nom de l'espece) une illustration d'un champignon colorée, qui, selon sa couleur, permet de savoir rapidement à quel type d'empreinte on a affaire.  
+La nomenclature de ces types par couleurs est établie comme suit :
+- ⬛ Noir : Mortel
+- 🟥 Rouge : Psychedelique
+- 🟩 Vert : Comestible
+- 🟦 Bleu : Médicinal
+
 ## 📝 License
 
 Ce projet est sous licence MIT. Vous pouvez consulter le fichier [LICENSE](LICENSE) pour plus de détails.

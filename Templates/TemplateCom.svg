@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="TemplateCom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.8262313"
+     inkscape:cx="214.70213"
+     inkscape:cy="299.77278"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="434.57321"
+       y="401.00218"
+       width="124.71224"
+       height="54.43516"
+       id="rect1004" />
+    <rect
+       x="227.16734"
+       y="288.33586"
+       width="116.70634"
+       height="52.087753"
+       id="rect6798" />
+    <rect
+       x="225.99364"
+       y="288.07641"
+       width="116.05154"
+       height="55.488406"
+       id="rect6792" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5807">
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="0"
+         id="stop5803" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:0;"
+         offset="1"
+         id="stop5805" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5797">
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="0"
+         id="stop5793" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:0;"
+         offset="1"
+         id="stop5795" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3745"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop3743" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5797"
+       id="linearGradient5799"
+       x1="52.057962"
+       y1="59.682191"
+       x2="100.46828"
+       y2="59.682191"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5807"
+       id="linearGradient5809"
+       x1="53.105631"
+       y1="128.35172"
+       x2="101.50778"
+       y2="128.35172"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.4865181,-0.90057338)" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect2605"
+       width="111.15448"
+       height="82.830521"
+       x="50.097652"
+       y="49.818283" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.209;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2607"
+       width="110.19725"
+       height="81.469131"
+       x="49.812607"
+       y="49.996964" />
+    <rect
+       style="fill:url(#linearGradient5799);fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3592"
+       width="47.945316"
+       height="9.8098774"
+       x="52.290462"
+       y="54.777252"
+       ry="4.2601533" />
+    <rect
+       style="fill:url(#linearGradient5809);fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5801"
+       width="47.937145"
+       height="3.6586816"
+       x="51.851612"
+       y="125.6218"
+       ry="1.2454391" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5919"
+       width="44.558769"
+       height="55.872322"
+       x="53.758183"
+       y="67.344421"
+       ry="3.122587" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6682"
+       width="19.868185"
+       height="20.757317"
+       x="76.631279"
+       y="99.421013" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="80.127327"
+       y="110.93151"
+       id="text6738"><tspan
+         sodipodi:role="line"
+         id="tspan6736"
+         style="stroke-width:0.465"
+         x="80.127327"
+         y="110.93151">QR Code</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6790"
+       style="white-space:pre;shape-inside:url(#rect6792);display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.75748;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6796"
+       style="white-space:pre;shape-inside:url(#rect6798);display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.75748;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="227.16797"
+         y="298.95312"
+         id="tspan1249">Illustration du </tspan><tspan
+         x="227.16797"
+         y="313.95312"
+         id="tspan1251">champignon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="72.015633"
+       y="60.725777"
+       id="text6804"><tspan
+         sodipodi:role="line"
+         id="tspan6802"
+         style="stroke-width:0.465;fill:#4d4d4d"
+         x="72.015633"
+         y="60.725777">Nom // Espece</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6960"
+       width="7.4660964"
+       height="7.0182614"
+       x="53.507294"
+       y="56.027596"
+       ry="3.0629301" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.465;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="52.63451"
+       y="128.09634"
+       id="text7122"><tspan
+         sodipodi:role="line"
+         id="tspan7120"
+         style="stroke-width:0.465"
+         x="52.63451"
+         y="128.09634">Empreinte scellée par ...  // Le  XX/XX/XkXX</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.209;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7124"
+       width="56.82193"
+       height="4.8256679"
+       x="102.40876"
+       y="45.119377" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.209;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7126"
+       width="57.069496"
+       height="4.6115065"
+       x="102.34749"
+       y="131.67497" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.5172985,15.727345)"
+       id="text1002"
+       style="font-size:8px;text-align:center;white-space:pre;shape-inside:url(#rect1004);display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.789921;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="27.466797"
+       y="0"><tspan
+         x="482.04004"
+         y="408.08008"
+         id="tspan1253">ID Card
+</tspan><tspan
+         x="468.98535"
+         y="418.08008"
+         id="tspan1255">Spora-Archive</tspan></text>
+    <path
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.063;stroke-linejoin:bevel;stroke-dasharray:none"
+       id="path426"
+       sodipodi:type="arc"
+       sodipodi:cx="57.218708"
+       sodipodi:cy="-59.4674"
+       sodipodi:rx="2.280453"
+       sodipodi:ry="2.6475489"
+       sodipodi:start="0"
+       sodipodi:end="3.1539797"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 59.499161,-59.4674 a 2.280453,2.6475489 0 0 1 -1.148391,2.298291 2.280453,2.6475489 0 0 1 -2.288558,-0.01646 2.280453,2.6475489 0 0 1 -1.123782,-2.314629 z"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#d45500;stroke:#000000;stroke-width:0.063;stroke-linejoin:bevel;stroke-dasharray:none"
+       id="rect1037"
+       width="1.8912698"
+       height="1.6784798"
+       x="56.334766"
+       y="59.516121" />
+  </g>
+</svg>
