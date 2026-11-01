@@ -67,9 +67,8 @@ Il est également conseillé de manipuler les empreintes avec précaution, en ut
 
 ### 📺 Ressources Videos
 
-![](https://youtu.be/URHWiiZDwmU)
-
-![](https://youtu.be/9Vvwd0ZaH6E)
+- [Tutoriel video pour la création d'une empreinte de spores](https://youtu.be/URHWiiZDwmU)
+- [Tutoriel pour l'utilisation d'une sporée](https://youtu.be/9Vvwd0ZaH6E)
 
 
 
