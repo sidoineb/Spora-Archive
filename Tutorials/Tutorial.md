@@ -58,4 +58,18 @@ Pour garantir la pérennité de vos empreintes de spores, il est recommandé de 
 
 Il est également conseillé de manipuler les empreintes avec précaution, en utilisant des gants et en évitant tout contact direct avec la peau.
 
+## 📚 Ressources supplémentaires
+
+### 🔗 Netographie
+
+- [Guide Pratique de La Mycosphere](https://youtu.be/MONUE97meYM) : Un guide complet sur la confection d'empreintes de spores.
+- [Tutoriel de Zamnesia](https://www.zamnesia.fr/blog-comment-prendre-des-empreintes-de-spore-propres-n347) : Un tutoriel détaillé sur la prise d'empreintes de spores halucinogénes, applicable à toutes les espèces de champignons.
+
+### 📺 Ressources Videos
+
+![](https://youtu.be/URHWiiZDwmU)
+
+![](https://youtu.be/9Vvwd0ZaH6E)
+
+
 
