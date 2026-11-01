@@ -70,5 +70,10 @@ Il est également conseillé de manipuler les empreintes avec précaution, en ut
 - [Tutoriel video pour la création d'une empreinte de spores](https://youtu.be/URHWiiZDwmU)
 - [Tutoriel pour l'utilisation d'une sporée](https://youtu.be/9Vvwd0ZaH6E)
 
+### 📖 Bibliographie
+
+- [Les champignons vont sauver le monde](https://www.amazon.fr/champignons-vont-sauver-monde-insoup%C3%A7onn%C3%A9s/dp/2017161403) : Un ouvrage de Paul Stamets sur les champignons et leur rôle dans l'écologie et la médecine.
+- [Registre de Myciculture](https://www.amazon.fr/Registre-Myciculture-Champignons-Colonisation-Fructification/dp/B0H6LGQX6W) : Culture de Champignons à Domicile: Suivi des Souches, Substrats, Colonisation, Fructification et Récoltes — Journal de bord du Myciculteur
+- [Cultiver des champignons chez soi: Le guide pratique pour débuter en myciculture](https://www.amazon.fr/Cultiver-champignons-chez-soi-myciculture-ebook/dp/B0HH8D7YHR) : Un quide pratique (Ebook) de Camille Martin pour débuter en myciculture, avec des conseils sur la culture de champignons comestibles et médicinaux.
 
 
