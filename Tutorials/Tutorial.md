@@ -8,7 +8,7 @@ Ce tutoriel complet reprend les étapes de la mise en place d'une mycothéque Sp
 
 - Des rectangles de papier aluminium de 11cmx8cm max
 - Alcool à 70° ou 90° (alcool isopropylique ou éthanol), ainsi que des coupelles en verre ou un verre d'eau.
-- Les IDcards Spora-Archive de votre choix imprimées.
+- Du materiel d'impression pour les IDcards Spora-Archive (imprimante, papier, etc.)
 - Des gants en nitrile ou latex (pour la manipulation des empreintes de spores)
 - Proteges-cartes MagicTheGathering (des [UltraPro](https://www.philibertnet.com/fr/ultra-pro/161521-100-deck-protector-noir-regular-size-074427826918.html) suffisent, pour plus de robustesse des DragonShield reste envisageables)
 - Une boite de deck MagicTheGathering de votre choix (par exemple une [Deckbox assez jolie, solide et resistante dans le temps](https://www.philibertnet.com/fr/ultimate-guard/183090-magic-the-gathering-reality-fracture-sidewinder-100-2100001416539.html), ou une [plus modeste mais tout aussi solide](https://www.philibertnet.com/fr/gamegenic/180795-magic-the-gathering-the-hobbit-soft-dynacrate-100-xl-4251715425664.html))
@@ -27,9 +27,35 @@ Ce tutoriel complet reprend les étapes de la mise en place d'une mycothéque Sp
 
 Pendant que l'empreinte se forme, vous pouvez éditer l'IDCard correspondante à la souche de champignon que vous avez utilisé.  
 De là, deux options s'offrent à vous : soit vous imprimez directement une IDCard existante dans le répertoire [Templates](../Templates/) pour les espèces les plus communes (disponibles au format PDF), soit vous pouvez créer votre propre IDCard en éditant le fichier SVG correspondant à l'espèce que vous souhaitez ajouter à votre mycothéque.  
-Une fois découpée, vous pouvez plier les lignes de pliage.
+Une fois imprimée et découpée, vous pouvez plier les lignes de pliage.
 
 ## 🧾 Conditionner l'empreinte de spores
 
-1) 
+1) Une fois les heures écoulées, retirer le verre ou la coupelle, et récupérer la feuille d'aluminium avec l'empreinte de spores.  
+L'empreinte devrait ressembler à une fine poussière noire ou colorée sur la feuille d'aluminium, comme illustré ci-dessous.
+
+![](Medias/Tuto-SporaArchive-2.webp)
+
+2) Plier la feuille d'aluminium en deux pour protéger l'empreinte, et la placer dans l'IDCard Spora-Archive correspondante.
+3) Après s'etre assuré que l'empreinte est bien protégée dans l'IDCard, glisser l'IDCard dans le protège-carte MagicTheGathering, comme illustré ci-dessous.
+
+![](Medias/Tuto-SporaArchive-3.webp)
+
+4) Enfin, ranger le protège-carte dans la boite de deck MagicTheGathering.
+
+## 🚦 Types : Le code couleur
+
+Dans le coin gauche de chaque IDCards il est présent (à coté du nom de l'espece) une illustration d'un champignon colorée, qui, selon sa couleur, permet de savoir rapidement à quel type d'empreinte on a affaire.  
+La nomenclature de ces types par couleurs est établie comme suit :
+- ⬛ Noir : Mortel/Toxique
+- 🟥 Rouge : Psychedelique
+- 🟩 Vert : Comestible
+- 🟦 Bleu : Médicinal
+
+## ⚠️ Conservation et sécurité
+
+Pour garantir la pérennité de vos empreintes de spores, il est recommandé de stocker la boite de deck MagicTheGathering dans un endroit frais et sec, à l'abri de la lumière directe du soleil.
+
+Il est également conseillé de manipuler les empreintes avec précaution, en utilisant des gants et en évitant tout contact direct avec la peau.
+
 
